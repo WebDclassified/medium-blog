@@ -5,37 +5,37 @@ This project aims to create a simplified version of a blogging platform similar 
 -Steps to Access and Use the Medium Blog Website
 -Visit the Website: https://medium-blog-black.vercel.app/home
 
--Sign Up for an Account:
+**Sign Up for an Account:**
 
 
--Click on the "Sign Up" button.
+Click on the "Sign Up" button.
 
--Fill in the sign-up form with your credentials (use fictional details):
+Fill in the sign-up form with your credentials (use fictional details):
 
--Name: Enter a name (e.g., Joe).
+**Name:** Enter a name (e.g., Joe).
 
--Email: Enter a non-existent email (e.g., joe@gmail.com).
+**Email:** Enter a non-existent email (e.g., joe@gmail.com).
 
--Password: Enter a password (minimum 6 characters, e.g., 23432ddsjfkas).
+**Password:** Enter a password (minimum 6 characters, e.g., 23432ddsjfkas).
 
--Submit the form to create your account.
+Submit the form to create your account.
 
-Read an Existing Blog:
+**Read an Existing Blog:**
 
 
--Once logged in, click on any available blog to read its content.
+Once logged in, click on any available blog to read its content.
 
--Create a New Blog:
+**Create a New Blog:**
 
--Click on the "New" button located at the top right corner.
+Click on the "New" button located at the top right corner.
 
--Fill in the title and content for your blog.
+Fill in the title and content for your blog.
 
--Click the "Publish Blog" button to make your blog live.
+Click the "Publish Blog" button to make your blog live.
 
--By following these steps, you will successfully access the website, read existing blogs, and publish your own content.
+By following these steps, you will successfully access the website, read existing blogs, and publish your own content.
 
-#Developed by Prabhat Teotia
+# **Developed by Prabhat Teotia**
 
 ## Technologies Used
 
