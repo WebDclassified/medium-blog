@@ -13,11 +13,11 @@ Click on the "Sign Up" button.
 
 Fill in the sign-up form with your credentials (use fictional details):
 
-**Name:** Enter a name (e.g., Joe).
+- **Name:** Enter a name (e.g., Joe).
 
-**Email:** Enter a non-existent email (e.g., joe@gmail.com).
+- **Email:** Enter a non-existent email (e.g., joe@gmail.com).
 
-**Password:** Enter a password (minimum 6 characters, e.g., 23432ddsjfkas).
+- **Password:** Enter a password (minimum 6 characters, e.g., 23432ddsjfkas).
 
 Submit the form to create your account.
 
