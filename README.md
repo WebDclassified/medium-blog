@@ -19,20 +19,20 @@ Fill in the sign-up form with your credentials (use fictional details):
 
 - **Password:** Enter a password (minimum 6 characters, e.g., 23432ddsjfkas).
 
-Submit the form to create your account.
+- Submit the form to create your account.
 
 **Read an Existing Blog:**
 
 
-Once logged in, click on any available blog to read its content.
+- Once logged in, click on any available blog to read its content.
 
 **Create a New Blog:**
 
-Click on the "New" button located at the top right corner.
+- Click on the "New" button located at the top right corner.
 
-Fill in the title and content for your blog.
+- Fill in the title and content for your blog.
 
-Click the "Publish Blog" button to make your blog live.
+- Click the "Publish Blog" button to make your blog live.
 
 By following these steps, you will successfully access the website, read existing blogs, and publish your own content.
 
