@@ -3,7 +3,8 @@
 This project aims to create a simplified version of a blogging platform similar to Medium, focusing on user authentication (signup and signin), viewing all blogs, and creating new blogs.
 # How to use ?
 -Steps to Access and Use the Medium Blog Website
--Visit the Website: https://medium-blog-black.vercel.app/home
+
+**Visit the Website: https://medium-blog-black.vercel.app/home**
 
 **Sign Up for an Account:**
 
