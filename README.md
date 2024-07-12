@@ -53,3 +53,10 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    git clone <repository-url>
    cd medium-blog
+
+2. **Install the dependencies:**
+
+   ```bash
+   npm install @pt2024/medium-common
+
+When everything don't work try installing this
